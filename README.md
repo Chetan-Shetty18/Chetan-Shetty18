@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-shetty18&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-shetty18" /> </p>
 
 <ul>
-  <li>🌱 I’m currently learning <strong>Data Science with Python</strong> and <strong>Cloud Computing</strong></li>
+  <li>🌱 I’m currently learning <strong>Andriod Programming</strong> and <strong>Software Engineering</strong></li>
   <li>📫 How to reach me: <a href="mailto:chetanshetty128@gmail.com">chetanshetty128@gmail.com</a></li>
   <li>⚡ Fun fact: I am funny 😊</li>
 </ul>
