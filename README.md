@@ -1,108 +1,94 @@
-<h1 align="center">Hi 👋, I'm Chetan Shetty</h1>
-<h3 align="center">🚀 A passionate Software Engineer from India 🚀</h3>
-
+<h1 align="center">🚀 Chetan Shetty — Building the Future, One Line at a Time</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast+%7C+Cloud+Native+Builder;Open+Source+Contributor+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chetan-shetty18&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-shetty18" />
-</p>
-
----
-
-### 🧠 Currently Exploring
-- 🔧 Android App Development (Kotlin & Jetpack Compose)
-- 🧑‍💻 Full Stack Web Development (MERN Stack)
-- 🧠 Machine Learning & AI with Python
-- ☁️ Cloud Computing (AWS & Azure)
-- 🧩 Software Architecture & System Design
-- 📱 Flutter & Dart for Cross-Platform Apps
-
----
-
-### 🏆 Achievements & Highlights
-- 🥇 Finalist – SAP Hackathon 2025: *SustainChain AI – Circular Economy Optimizer*
-- 💻 Built an Advanced **Tower of Hanoi Visualizer** using HTML, CSS Animations & JavaScript
-- 🎯 Created a **Code Debugging Game** using C Backend & JS Frontend for real-time code evaluation
-- 🧩 Participated in FKCCI Manthan & MSRIT Treasure Hunt Challenge
-- 👨‍🏫 Conducted workshops for peers on Git, DSA, and Web Technologies
-
----
-
-### 📫 How to reach me
-- 📧 Email: [chetanshetty128@gmail.com](mailto:chetanshetty128@gmail.com)
-- 🌐 Portfolio (coming soon!)
-- 🔗 Connect:
-  <a href="https://twitter.com/chetans96748664" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/chetan-shetty" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/shetty._.chetan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-
----
-
-### 🛠️ Languages, Tools & Technologies
-
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend & DB:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
-**Dev Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Others:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetan-shetty18&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-shetty18&theme=github-dark-blue" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetan-shetty18&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=chetan-shetty18&label=Profile+Views&color=brightgreen" alt="Profile Views" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-- 🔗 [Code Debugging Quiz Game](https://github.com/chetan-shetty18/code-debugging-quiz-game) – A gamified bug-fixing tool using C backend & JS frontend.
-- 🔗 [Tower of Hanoi Visualizer](https://github.com/chetan-shetty18/tower-of-hanoi-visualizer) – Visually appealing and animated Hanoi solver.
-- 🔗 [SustainChain AI – Hackathon Project](https://github.com/chetan-shetty18/sustainchain-ai) – AI-driven Circular Economy Optimizer for SAP Hackathon.
+### 👤 About Me
+```yaml
+name: Chetan Shetty
+role: Software Engineer | Visionary Technologist
+location: India 🌏
+learning: DevOps • Distributed Systems • Android + iOS
+interests:
+  - Creative Full Stack Projects
+  - Building Scalable APIs
+  - Generative AI & LLMs
+  - Technical Writing
+hobbies:
+  - Debugging Late Night Bugs 🐛
+  - Contributing to Open Source ❤️
+  - Gaming | Cricket | Memes
+```
 
 ---
 
-### 🔥 Fun Fact
-> I may be a software engineer, but I never *byte* more than I can code 😄
+### 🛠️ Tech Stack
+
+**Languages:**
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+**Frontend & Mobile:**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+**Backend & DevOps:**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+**Database:**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+**AI & Data Science:**
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
 ---
 
-✨ *Always learning. Always building. Always curious.*  
-⭐ *If you like what I do, consider giving a star to my repositories!*
+### 🔥 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetan-shetty18&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-shetty18&layout=compact&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-shetty18&theme=radical"/>
+</p>
 
+---
+
+### 🌍 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/chetan-shetty"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:chetanshetty128@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/chetans96748664"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/shetty._.chetan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+</p>
