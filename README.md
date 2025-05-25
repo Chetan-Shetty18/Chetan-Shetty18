@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Chetan Shetty — Building the Future, One Line at a Time</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast+%7C+Cloud+Native+Builder;Open+Source+Contributor+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Enthusiast+%7C+Cloud+Native+Builder;Open+Source+Contributor+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
