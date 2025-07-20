@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm **Chetan Shetty**, a **Software Engineer** with a strong foundation in full-stack web development, actively transitioning towards **Data Science** and **Data Analysis**. [cite_start]I am currently pursuing my Master of Computer Applications at Bangalore Institute of Technology[cite: 25, 26, 28]. My passion lies in extracting insights from data and building practical, impactful solutions. [cite_start]I'm keen on deepening my expertise in **cloud computing with AWS** and mastering advanced data science concepts. [cite: 25, 26, 28]
+I'm **Chetan Shetty**, a **Software Engineer** with a strong foundation in full-stack web development, actively transitioning towards **Data Science** and **Data Analysis**. I am currently pursuing my Master of Computer Applications at Bangalore Institute of Technology My passion lies in extracting insights from data and building practical, impactful solutions. I'm keen on deepening my expertise in **cloud computing with AWS** and mastering advanced data science concepts. 
 
 Outside of coding, I enjoy watching movie critics, movies, and web series.
 
@@ -59,9 +59,9 @@ Here's a snapshot of the technologies I work with:
 
 ### 💡 Projects & Experience
 
-* [cite_start]**Bank Locker Management System:** Developed a secure web-based application using Python Django and SQLite to streamline bank locker operations, integrating features for allocation, tracking, and access management. [cite: 15, 16, 17, 18, 92, 93, 94]
-* [cite_start]**CGPA Booster:** Created a student-focused web tool using HTML, CSS, and JavaScript for CGPA calculation, semester planning, and study resource access. [cite: 10, 12, 13, 14]
-* [cite_start]**Real-Time Video Calling App (Android):** Built an Android application using Java and ZEGOCLOUD SDK, featuring user authentication, room creation, and smooth audio-video calls. [cite: 19, 21, 22, 23]
+* **Bank Locker Management System:** Developed a secure web-based application using Python Django and SQLite to streamline bank locker operations, integrating features for allocation, tracking, and access management. 
+* **CGPA Booster:** Created a student-focused web tool using HTML, CSS, and JavaScript for CGPA calculation, semester planning, and study resource access. 
+* **Real-Time Video Calling App (Android):** Built an Android application using Java and ZEGOCLOUD SDK, featuring user authentication, room creation, and smooth audio-video calls. 
 
 ---
 
