@@ -1,18 +1,18 @@
-# Chetan Shetty — Crafting Innovative Solutions
+# Chetan Shetty — Aspiring Data Scientist & Developer
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Enthusiast;Cloud+Native+Builder;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Aspiring+Data+Scientist;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I'm **Chetan Shetty**, a **Software Engineer** with a passion for building robust and scalable applications. Based in India, I specialize in full-stack development and am keenly interested in leveraging **Generative AI** and **Large Language Models (LLMs)** to create intelligent solutions. I thrive on tackling complex challenges, contributing to open-source projects, and continuously expanding my expertise in areas like **DevOps**, **Distributed Systems**, and **mobile development (Android + iOS)**.
+I'm **Chetan Shetty**, a **Software Engineer** with a strong foundation in full-stack web development, actively transitioning towards **Data Science** and **Data Analysis**. [cite_start]I am currently pursuing my Master of Computer Applications at Bangalore Institute of Technology[cite: 25, 26, 28]. My passion lies in extracting insights from data and building practical, impactful solutions. [cite_start]I'm keen on deepening my expertise in **cloud computing with AWS** and mastering advanced data science concepts. [cite: 25, 26, 28]
 
-Beyond coding, I enjoy technical writing, and when I'm not immersed in technology, you'll find me gaming, following cricket, or exploring the latest memes.
+Outside of coding, I enjoy watching movie critics, movies, and web series.
 
 ---
 
@@ -23,25 +23,22 @@ Here's a snapshot of the technologies I work with:
 **Languages:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-**Frontend & Mobile:**
+**Frontend:**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
-**Backend & DevOps:**
+**Backend:**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 **Databases:**
@@ -50,12 +47,21 @@ Here's a snapshot of the technologies I work with:
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-**AI & Data Science:**
+**Tools & Platforms:**
 <p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
+
+---
+
+### 💡 Projects & Experience
+
+* [cite_start]**Bank Locker Management System:** Developed a secure web-based application using Python Django and SQLite to streamline bank locker operations, integrating features for allocation, tracking, and access management. [cite: 15, 16, 17, 18, 92, 93, 94]
+* [cite_start]**CGPA Booster:** Created a student-focused web tool using HTML, CSS, and JavaScript for CGPA calculation, semester planning, and study resource access. [cite: 10, 12, 13, 14]
+* [cite_start]**Real-Time Video Calling App (Android):** Built an Android application using Java and ZEGOCLOUD SDK, featuring user authentication, room creation, and smooth audio-video calls. [cite: 19, 21, 22, 23]
 
 ---
 
