@@ -1,42 +1,31 @@
-<h1 align="center">🚀 Chetan Shetty — Building the Future, One Line at a Time</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Enthusiast+%7C+Cloud+Native+Builder;Open+Source+Contributor+%7C+Tech+Explorer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chetan-shetty18&label=Profile+Views&color=brightgreen" alt="Profile Views" />
-</p>
+# Chetan Shetty — Crafting Innovative Solutions
 
 ---
 
-### 👤 About Me
-```yaml
-name: Chetan Shetty
-role: Software Engineer | Visionary Technologist
-location: India 🌏
-learning: DevOps • Distributed Systems • Android + iOS
-interests:
-  - Creative Full Stack Projects
-  - Building Scalable APIs
-  - Generative AI & LLMs
-  - Technical Writing
-hobbies:
-  - Debugging Late Night Bugs 🐛
-  - Contributing to Open Source ❤️
-  - Gaming | Cricket | Memes
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Enthusiast;Cloud+Native+Builder;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 About Me
+
+I'm **Chetan Shetty**, a **Software Engineer** with a passion for building robust and scalable applications. Based in India, I specialize in full-stack development and am keenly interested in leveraging **Generative AI** and **Large Language Models (LLMs)** to create intelligent solutions. I thrive on tackling complex challenges, contributing to open-source projects, and continuously expanding my expertise in areas like **DevOps**, **Distributed Systems**, and **mobile development (Android + iOS)**.
+
+Beyond coding, I enjoy technical writing, and when I'm not immersed in technology, you'll find me gaming, following cricket, or exploring the latest memes.
+
+---
+
+### 🛠️ My Toolkit
+
+Here's a snapshot of the technologies I work with:
 
 **Languages:**
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
 **Frontend & Mobile:**
@@ -55,7 +44,7 @@ hobbies:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-**Database:**
+**Databases:**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -70,25 +59,27 @@ hobbies:
 
 ---
 
-### 🔥 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chetan-shetty18&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-shetty18&layout=compact&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-shetty18&theme=radical"/>
-</p>
+### 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetan-shetty18&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Chetan Shetty GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-shetty18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-shetty18&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 🌍 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/chetan-shetty-72555b27a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:chetanshetty225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/Chetan__Shetty?t=xAnSdVwn3FCTAXnAeJrpng&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/chetan.__.shetty?igsh=MTdxYnB6dW9naGliMQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+### 🌐 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/chetan-shetty-72555b27a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:chetanshetty225@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://x.com/Chetan__Shetty" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/chetan.__.shetty" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
-</p>
+</div>
